@@ -1,0 +1,22 @@
+{
+  "info": [
+    {
+      "product": "Wódka",
+      "name": "Wyborowa",
+      "unit": "butelka 0.5 L",
+      "unitNumber": "23",
+      "unitPrice": "21.99",
+      "sum": "505.77",
+      "id": 1
+    },
+    {
+      "product": "Tequila",
+      "name": "Sierra Silver",
+      "unit": "butelka 0.7 L",
+      "unitNumber": "3.4",
+      "unitPrice": "54.13",
+      "sum": "184.04",
+      "id": 2
+    }
+  ]
+}
