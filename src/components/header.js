@@ -3,7 +3,8 @@ import React from 'react';
 const Header = () => {
     return (
         <header>
-            <h1>Inwentaryzacja rok 2022 </h1>
+            <h2>Remanent Pub Propaganda 30.11.2023</h2>
+            <p>Lem-Son Sp. z o.o.</p>
             <hr />
         </header>
       );
