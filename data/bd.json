@@ -4,306 +4,360 @@
       "product": "Napój bezalkoholowy",
       "name": "Coca cola",
       "unit": "puszka 0.2 L",
-      "unitNumber": "83",
+      "unitNumber": "44",
       "unitPrice": "1.61",
-      "sum": "133.63",
+      "sum": "70.84",
       "id": 1
+    },
+    {
+      "product": "Napój bezalkoholowy",
+      "name": "Cola Zero",
+      "unit": "puszka 0.2 L",
+      "unitNumber": "40",
+      "unitPrice": "1.61",
+      "sum": "64.40",
+      "id": 2
     },
     {
       "product": "Napój bezalkoholowy",
       "name": "Tonik",
       "unit": "butelka 0.25 L",
-      "unitNumber": "45",
-      "unitPrice": "3.63",
-      "sum": "163.35",
+      "unitNumber": "58",
+      "unitPrice": "2.87",
+      "sum": "166.46",
       "id": 3
     },
     {
       "product": "Napój bezalkoholowy",
       "name": "Sprite",
       "unit": "butelka 0.25 L",
-      "unitNumber": "47",
+      "unitNumber": "23",
       "unitPrice": "2.96",
-      "sum": "139.12",
+      "sum": "68.08",
       "id": 4
     },
     {
       "product": "Napój bezalkoholowy",
       "name": "Fanta",
-      "unit": "puszka 0.25 L",
-      "unitNumber": "21",
+      "unit": "butelka 0.25 L",
+      "unitNumber": "39",
       "unitPrice": "2.96",
-      "sum": "62.16",
+      "sum": "115.44",
       "id": 5
-    },
-    {
-      "product": "Napój bezalkoholowy",
-      "name": "Woda Kinga gazowana",
-      "unit": "butelka 0.33 L",
-      "unitNumber": "21",
-      "unitPrice": "1.61",
-      "sum": "33.81",
-      "id": 6
     },
     {
       "product": "Napój bezalkoholowy",
       "name": "Woda Kinga niegazowana",
       "unit": "butelka 0.33 L",
-      "unitNumber": "22",
-      "unitPrice": "1.61",
-      "sum": "35.42",
+      "unitNumber": "18",
+      "unitPrice": "1.62",
+      "sum": "29.16",
+      "id": 6
+    },
+    {
+      "product": "Napój bezalkoholowy",
+      "name": "Woda Kinga gazowana",
+      "unit": "butelka 0.33 L",
+      "unitNumber": "16",
+      "unitPrice": "1.62",
+      "sum": "25.92",
       "id": 7
     },
     {
       "product": "Napój bezalkoholowy",
-      "name": "Cola Zero",
-      "unit": "puszka 0.2 L",
-      "unitNumber": "64",
-      "unitPrice": "1.61",
-      "sum": "103.04",
-      "id": 8
-    },
-    {
-      "product": "Napój bezalkoholowy",
-      "name": "Red bull",
+      "name": "Red bull light",
       "unit": "puszka 0.25 L",
-      "unitNumber": "38",
-      "unitPrice": "3.87",
-      "sum": "147.06",
+      "unitNumber": "20",
+      "unitPrice": "3.49",
+      "sum": "69.80",
       "id": 9
     },
     {
       "product": "Przekąska",
       "name": "Paluszki",
       "unit": "opakowanie",
-      "unitNumber": "27",
+      "unitNumber": "9",
       "unitPrice": "1.56",
-      "sum": "42.12",
+      "sum": "14.04",
       "id": 10
     },
     {
       "product": "Przekąska",
       "name": "Chipsy",
       "unit": "opakowanie",
-      "unitNumber": "17",
+      "unitNumber": "35",
       "unitPrice": "3.99",
-      "sum": "67.83",
+      "sum": "139.65",
       "id": 11
     },
     {
       "product": "Napój bezalkoholowy",
       "name": "Sok pamarańczowy",
       "unit": "butelka 1 L",
-      "unitNumber": "13.8",
+      "unitNumber": "9.1",
       "unitPrice": "5.17",
-      "sum": "71.35",
+      "sum": "47.05",
       "id": 12
+    },
+    {
+      "product": "Napój bezalkoholowy",
+      "name": "Sok grejfrutowy",
+      "unit": "butelka 1 L",
+      "unitNumber": "6.5",
+      "unitPrice": "5.17",
+      "sum": "33.60",
+      "id": 13
+    },
+    {
+      "product": "Napój bezalkoholowy",
+      "name": "Sok porzeczkowy",
+      "unit": "butelka 1 L",
+      "unitNumber": "6.5",
+      "unitPrice": "4.93",
+      "sum": "32.05",
+      "id": 14
+    },
+    {
+      "product": "Napój bezalkoholowy",
+      "name": "Sok pomidorowy",
+      "unit": "butelka 0.3 L",
+      "unitNumber": "32",
+      "unitPrice": "1.93",
+      "sum": "61.76",
+      "id": 15
     },
     {
       "product": "Napój bezalkoholowy",
       "name": "Sok jabłkowy",
       "unit": "butelka 1 L",
-      "unitNumber": "9.2",
+      "unitNumber": "7.2",
       "unitPrice": "4.44",
-      "sum": "40.85",
-      "id": 13
+      "sum": "31.97",
+      "id": 16
     },
     {
       "product": "Piwo",
       "name": "Holba",
       "unit": "kega 30 L",
-      "unitNumber": "4",
+      "unitNumber": "1.25",
       "unitPrice": "175.29",
-      "sum": "701.16",
-      "id": 14
+      "sum": "219.11",
+      "id": 17
+    },
+    {
+      "product": "Piwo",
+      "name": "Zubr",
+      "unit": "kega 30 L",
+      "unitNumber": "1.9",
+      "unitPrice": "173.35",
+      "sum": "329.36",
+      "id": 18
     },
     {
       "product": "Piwo",
       "name": "Litovel Premium",
       "unit": "butelka 0.5 L",
-      "unitNumber": "19",
+      "unitNumber": "40",
       "unitPrice": "2.89",
-      "sum": "54.91",
-      "id": 16
+      "sum": "115.60",
+      "id": 19
     },
     {
       "product": "Piwo",
       "name": "Litovel Dark",
       "unit": "butelka 0.5 L",
-      "unitNumber": "28",
+      "unitNumber": "30",
       "unitPrice": "3.05",
-      "sum": "85.40",
-      "id": 18
+      "sum": "91.50",
+      "id": 20
     },
     {
       "product": "Piwo",
       "name": "Litovel Citron",
       "unit": "butelka 0.5 L",
-      "unitNumber": "13",
-      "unitPrice": "3.2",
-      "sum": "41.60",
-      "id": 19
+      "unitNumber": "22",
+      "unitPrice": "3.20",
+      "sum": "70.40",
+      "id": 21
     },
     {
       "product": "Piwo",
       "name": "Litovel Pszeniczne",
       "unit": "butelka 0.5 L",
-      "unitNumber": "23",
+      "unitNumber": "21",
       "unitPrice": "3.22",
-      "sum": "74.06",
-      "id": 20
+      "sum": "67.62",
+      "id": 22
     },
     {
       "product": "Piwo",
       "name": "Holba Free",
       "unit": "butelka 0.5 L",
-      "unitNumber": "24",
+      "unitNumber": "28",
       "unitPrice": "2.41",
-      "sum": "57.84",
-      "id": 21
-    },
-    {
-      "product": "Piwo",
-      "name": "Żywiec Biały",
-      "unit": "butelka 0.5 L",
-      "unitNumber": "39",
-      "unitPrice": "4.20",
-      "sum": "163.80",
-      "id": 22
+      "sum": "67.48",
+      "id": 23
     },
     {
       "product": "Piwo",
       "name": "Desperados",
       "unit": "butelka 0.4 L",
-      "unitNumber": "21",
+      "unitNumber": "29",
       "unitPrice": "3.93",
-      "sum": "82.53",
-      "id": 23
+      "sum": "113.97",
+      "id": 24
     },
     {
       "product": "Piwo",
       "name": "Heineken 00",
       "unit": "butelka 0.5 L",
-      "unitNumber": "23",
-      "unitPrice": "3.57",
-      "sum": "82.11",
-      "id": 24
+      "unitNumber": "12",
+      "unitPrice": "3.73",
+      "sum": "44.76",
+      "id": 25
     },
     {
       "product": "Piwo",
       "name": "Vermont IPA",
       "unit": "butelka 0.5 L",
-      "unitNumber": "29",
+      "unitNumber": "7",
       "unitPrice": "7.67",
-      "sum": "222.43",
-      "id": 25
+      "sum": "53.69",
+      "id": 26
+    },
+    {
+      "product": "Piwo",
+      "name": "Piwo bezglutenowe",
+      "unit": "butelka 0.5 L",
+      "unitNumber": "18",
+      "unitPrice": "5.98",
+      "sum": "107.64",
+      "id": 27
+    },
+    {
+      "product": "Piwo",
+      "name": "Cherry sour",
+      "unit": "butelka 0.5 L",
+      "unitNumber": "27",
+      "unitPrice": "7.39",
+      "sum": "199.53",
+      "id": 28
     },
     {
       "product": "Piwo",
       "name": "Double IPA",
       "unit": "butelka 0.5 L",
-      "unitNumber": "19",
+      "unitNumber": "12",
       "unitPrice": "6.19",
-      "sum": "117.61",
-      "id": 30
+      "sum": "74.28",
+      "id": 29
     },
     {
       "product": "Wino",
       "name": "Cabernet Savinione",
       "unit": "butelka 0.75 L",
-      "unitNumber": "6",
+      "unitNumber": "5.8",
       "unitPrice": "12.86",
-      "sum": "77.16",
-      "id": 31
+      "sum": "74.59",
+      "id": 30
     },
     {
       "product": "Wino",
       "name": "Chardonnay",
       "unit": "butelka 0.75 L",
-      "unitNumber": "5.8",
+      "unitNumber": "3.8",
       "unitPrice": "13.13",
-      "sum": "76.15",
-      "id": 32
+      "sum": "49.89",
+      "id": 31
     },
     {
       "product": "Wermut",
       "name": "Martini Bianco",
       "unit": "butelka 1 L",
-      "unitNumber": "1.7",
+      "unitNumber": "1.85",
       "unitPrice": "29.09",
-      "sum": "49.45",
-      "id": 33
+      "sum": "53.82",
+      "id": 32
     },
     {
       "product": "Wermut",
       "name": "Martini Dry",
-      "unit": "butelka 0.75 L",
+      "unit": "butelka 1 L",
       "unitNumber": "2",
       "unitPrice": "29.09",
       "sum": "58.18",
-      "id": 34
+      "id": 33
     },
     {
       "product": "Spirytus",
       "name": "Spirytus 95%",
       "unit": "butelka 0.5 L",
-      "unitNumber": "3",
+      "unitNumber": "1.6",
       "unitPrice": "40.49",
-      "sum": "121.47",
-      "id": 35
+      "sum": "64.78",
+      "id": 34
     },
     {
       "product": "Wódka",
       "name": "Wyborowa",
       "unit": "butelka 0.5 L",
-      "unitNumber": "22",
+      "unitNumber": "20",
       "unitPrice": "23.99",
-      "sum": "527.78",
-      "id": 36
+      "sum": "479.80",
+      "id": 35
     },
     {
       "product": "Wódka",
-      "name": "Soplica Kawowa",
-      "unit": "butelka 0.5 L",
-      "unitNumber": "0.4",
-      "unitPrice": "19.19",
-      "sum": "7.68",
-      "id": 37
+      "name": "Soplica wiśniowa",
+      "unit": "",
+      "unitNumber": "6.6",
+      "unitPrice": "19.35",
+      "sum": "127.71",
+      "id": 36
     },
     {
       "product": "Wódka",
       "name": "Soplica wiśniowa",
       "unit": "butelka 0.5 L",
-      "unitNumber": "7.6",
+      "unitNumber": "6.6",
       "unitPrice": "19.35",
-      "sum": "147.06",
-      "id": 38
+      "sum": "127.71",
+      "id": 37
     },
     {
       "product": "Wódka",
       "name": "Soplica Śliwkowa",
       "unit": "butelka 0.5 L",
-      "unitNumber": "8",
+      "unitNumber": "8.7",
       "unitPrice": "19.35",
-      "sum": "154.80",
-      "id": 39
+      "sum": "168.34",
+      "id": 38
     },
     {
       "product": "Wódka",
       "name": "Soplica orzech laskowy",
       "unit": "butelka 0.5 L",
-      "unitNumber": "7.6",
+      "unitNumber": "5.6",
       "unitPrice": "19.35",
-      "sum": "147.06",
-      "id": 40
+      "sum": "108.36",
+      "id": 39
     },
     {
       "product": "Wódka",
       "name": "Soplica Pigwowa",
       "unit": "butelka 0.5 L",
-      "unitNumber": "8.5",
+      "unitNumber": "5.6",
       "unitPrice": "19.35",
-      "sum": "164.48",
+      "sum": "108.36",
+      "id": 40
+    },
+    {
+      "product": "Wódka",
+      "name": "Soplica Malinowa",
+      "unit": "butelka 0.5 L",
+      "unitNumber": "5.7",
+      "unitPrice": "19.35",
+      "sum": "110.30",
       "id": 41
     },
     {
@@ -319,18 +373,18 @@
       "product": "Wódka",
       "name": "Żołądkowa Gorzka",
       "unit": "butelka 0.7 L",
-      "unitNumber": "2.5",
+      "unitNumber": "2.9",
       "unitPrice": "29.97",
-      "sum": "74.92",
+      "sum": "86.91",
       "id": 43
     },
     {
       "product": "Wódka",
       "name": "Żołądkowa Miętowa",
       "unit": "butelka 0.7 L",
-      "unitNumber": "0.8",
+      "unitNumber": "2.7",
       "unitPrice": "29.97",
-      "sum": "23.98",
+      "sum": "80.92",
       "id": 44
     },
     {
@@ -346,91 +400,118 @@
       "product": "Likier",
       "name": "Jagermeister",
       "unit": "butelka 1 L",
-      "unitNumber": "4",
+      "unitNumber": "2.8",
       "unitPrice": "70.19",
-      "sum": "280.76",
+      "sum": "196.53",
       "id": 46
     },
     {
       "product": "Likier",
       "name": "Becherovka",
       "unit": "butelka 0.7 L",
-      "unitNumber": "0.5",
+      "unitNumber": "1.9",
       "unitPrice": "46.79",
-      "sum": "23.39",
+      "sum": "88.90",
       "id": 47
+    },
+    {
+      "product": "Tequila",
+      "name": "Sierra Silver",
+      "unit": "butelka 0.7 L",
+      "unitNumber": "3.8",
+      "unitPrice": "65.93",
+      "sum": "250.53",
+      "id": 48
     },
     {
       "product": "Gin",
       "name": "Seagrams",
       "unit": "butelka 0.7 L",
-      "unitNumber": "4.6",
+      "unitNumber": "6.5",
       "unitPrice": "34.19",
-      "sum": "157.27",
-      "id": 48
+      "sum": "222.23",
+      "id": 49
     },
     {
       "product": "Gin",
       "name": "Bombay",
       "unit": "butelka 0.7 L",
-      "unitNumber": "3.7",
+      "unitNumber": "2.9",
       "unitPrice": "82.80",
-      "sum": "306.36",
-      "id": 49
+      "sum": "240.12",
+      "id": 50
     },
     {
       "product": "Whisky",
       "name": "Johnny Walker",
       "unit": "butelka 0.7 L",
-      "unitNumber": "2.3",
+      "unitNumber": "1.8",
       "unitPrice": "40.49",
-      "sum": "93.13",
-      "id": 50
+      "sum": "72.88",
+      "id": 51
     },
     {
       "product": "Whisky",
       "name": "Jameson",
       "unit": "butelka 0.7 L",
-      "unitNumber": "4.5",
+      "unitNumber": "3.8",
       "unitPrice": "56.13",
-      "sum": "252.59",
-      "id": 51
+      "sum": "213.29",
+      "id": 52
     },
     {
       "product": "Whisky",
       "name": "Jack Daniels",
       "unit": "butelka 0.7 L",
-      "unitNumber": "5.7",
+      "unitNumber": "4.5",
       "unitPrice": "60.30",
-      "sum": "343.71",
-      "id": 52
+      "sum": "271.35",
+      "id": 53
     },
     {
       "product": "Burbon",
       "name": "Jim Beam",
       "unit": "butelka 0.7 L",
-      "unitNumber": "1.9",
-      "unitPrice": "54.20",
-      "sum": "102.98",
-      "id": 53
+      "unitNumber": "2",
+      "unitPrice": "628",
+      "sum": "1256.00",
+      "id": 54
     },
     {
       "product": "Burbon",
       "name": "Wild Turky",
       "unit": "butelka 0.7 L",
-      "unitNumber": "2",
+      "unitNumber": "1.8",
       "unitPrice": "88.19",
-      "sum": "176.38",
-      "id": 54
+      "sum": "158.74",
+      "id": 55
+    },
+    {
+      "product": "Whisky",
+      "name": "Talisker",
+      "unit": "butelka 0.7 L",
+      "unitNumber": "1.7",
+      "unitPrice": "161.54",
+      "sum": "274.62",
+      "id": 56
+    },
+    {
+      "product": "Likier",
+      "name": "Kahlua",
+      "unit": "butelka 0.7 L",
+      "unitNumber": "2.35",
+      "unitPrice": "61.73",
+      "sum": "145.07",
+      "id": 57
     },
     {
       "product": "Likier",
       "name": "Baileys",
       "unit": "butelka 0.7 L",
-      "unitNumber": "2.5",
-      "unitPrice": "49.04",
-      "sum": "122.60",
-      "id": 55
+      "unitNumber": "3.4",
+      "unitPrice": "49.94",
+      "sum": "169.80",
+      "id": 58
     },
     {
       "product": "Whisky",
@@ -439,34 +520,43 @@
       "unitNumber": "1.8",
       "unitPrice": "68.81",
       "sum": "123.86",
-      "id": 56
+      "id": 59
     },
     {
       "product": "Whisky",
       "name": "Proper Twelve",
       "unit": "butelka 0.7 L",
-      "unitNumber": "1.8",
-      "unitPrice": "69.99",
-      "sum": "125.98",
-      "id": 57
+      "unitNumber": "1",
+      "unitPrice": "948",
+      "sum": "948.00",
+      "id": 60
+    },
+    {
+      "product": "Rum",
+      "name": "Capitan Morgan Spiced",
+      "unit": "butelka 0.75 L",
+      "unitNumber": "2.4",
+      "unitPrice": "45.95",
+      "sum": "110.28",
+      "id": 61
     },
     {
       "product": "Rum",
       "name": "Havana Club",
       "unit": "butelka 0.7 L",
-      "unitNumber": "2.6",
+      "unitNumber": "2.9",
       "unitPrice": "47.94",
-      "sum": "124.64",
-      "id": 58
+      "sum": "139.03",
+      "id": 62
     },
     {
       "product": "Rum",
-      "name": "Capitan Morgan Spiced",
-      "unit": "butelka 0.7 L",
-      "unitNumber": "4.4",
-      "unitPrice": "45.95",
-      "sum": "202.18",
-      "id": 59
+      "name": "Capitan Morgan Dark",
+      "unit": "butelka 1 L",
+      "unitNumber": "2.4",
+      "unitPrice": "68.87",
+      "sum": "165.29",
+      "id": 63
     },
     {
       "product": "Likier",
@@ -475,34 +565,34 @@
       "unitNumber": "3.5",
       "unitPrice": "31.96",
       "sum": "111.86",
-      "id": 60
+      "id": 64
     },
     {
       "product": "Wódka",
       "name": "Śliwowica Passover",
       "unit": "butelka 0.7 L",
-      "unitNumber": "2.3",
+      "unitNumber": "0.8",
       "unitPrice": "99.80",
-      "sum": "229.54",
-      "id": 61
+      "sum": "79.84",
+      "id": 65
     },
     {
       "product": "Whisky",
       "name": "Maker's Mark",
       "unit": "butelka 0.7 L",
-      "unitNumber": "1.9",
+      "unitNumber": "2.7",
       "unitPrice": "90.43",
-      "sum": "171.82",
-      "id": 62
+      "sum": "244.16",
+      "id": 66
     },
     {
       "product": "Whisky",
       "name": "Macallan",
-      "unit": "butelka 0.7 L",
-      "unitNumber": "2.7",
+      "unit": "",
+      "unitNumber": "1.8",
       "unitPrice": "277.71",
-      "sum": "749.82",
-      "id": 63
+      "sum": "499.88",
+      "id": 67
     }
   ]
 }
