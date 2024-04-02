@@ -2,21 +2,12 @@
   "info": [
     {
       "product": "Napój bezalkoholowy",
-      "name": "Coca cola",
-      "unit": "puszka 0.2 L",
-      "unitNumber": "44",
-      "unitPrice": "1.61",
-      "sum": "70.84",
-      "id": 1
-    },
-    {
-      "product": "Napój bezalkoholowy",
       "name": "Cola Zero",
       "unit": "puszka 0.2 L",
       "unitNumber": "40",
       "unitPrice": "1.61",
       "sum": "64.40",
-      "id": 2
+      "id": "2"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -25,7 +16,7 @@
       "unitNumber": "58",
       "unitPrice": "2.87",
       "sum": "166.46",
-      "id": 3
+      "id": "3"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -34,7 +25,7 @@
       "unitNumber": "23",
       "unitPrice": "2.96",
       "sum": "68.08",
-      "id": 4
+      "id": "4"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -43,7 +34,7 @@
       "unitNumber": "39",
       "unitPrice": "2.96",
       "sum": "115.44",
-      "id": 5
+      "id": "5"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -52,7 +43,7 @@
       "unitNumber": "18",
       "unitPrice": "1.62",
       "sum": "29.16",
-      "id": 6
+      "id": "6"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -61,7 +52,7 @@
       "unitNumber": "16",
       "unitPrice": "1.62",
       "sum": "25.92",
-      "id": 7
+      "id": "7"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -70,7 +61,7 @@
       "unitNumber": "20",
       "unitPrice": "3.49",
       "sum": "69.80",
-      "id": 9
+      "id": "9"
     },
     {
       "product": "Przekąska",
@@ -79,7 +70,7 @@
       "unitNumber": "9",
       "unitPrice": "1.56",
       "sum": "14.04",
-      "id": 10
+      "id": "10"
     },
     {
       "product": "Przekąska",
@@ -88,7 +79,7 @@
       "unitNumber": "35",
       "unitPrice": "3.99",
       "sum": "139.65",
-      "id": 11
+      "id": "11"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -97,7 +88,7 @@
       "unitNumber": "9.1",
       "unitPrice": "5.17",
       "sum": "47.05",
-      "id": 12
+      "id": "12"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -106,7 +97,7 @@
       "unitNumber": "6.5",
       "unitPrice": "5.17",
       "sum": "33.60",
-      "id": 13
+      "id": "13"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -115,7 +106,7 @@
       "unitNumber": "6.5",
       "unitPrice": "4.93",
       "sum": "32.05",
-      "id": 14
+      "id": "14"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -124,7 +115,7 @@
       "unitNumber": "32",
       "unitPrice": "1.93",
       "sum": "61.76",
-      "id": 15
+      "id": "15"
     },
     {
       "product": "Napój bezalkoholowy",
@@ -133,7 +124,7 @@
       "unitNumber": "7.2",
       "unitPrice": "4.44",
       "sum": "31.97",
-      "id": 16
+      "id": "16"
     },
     {
       "product": "Piwo",
@@ -142,7 +133,7 @@
       "unitNumber": "1.25",
       "unitPrice": "175.29",
       "sum": "219.11",
-      "id": 17
+      "id": "17"
     },
     {
       "product": "Piwo",
@@ -151,7 +142,7 @@
       "unitNumber": "1.9",
       "unitPrice": "173.35",
       "sum": "329.36",
-      "id": 18
+      "id": "18"
     },
     {
       "product": "Piwo",
@@ -160,7 +151,7 @@
       "unitNumber": "40",
       "unitPrice": "2.89",
       "sum": "115.60",
-      "id": 19
+      "id": "19"
     },
     {
       "product": "Piwo",
@@ -169,7 +160,7 @@
       "unitNumber": "30",
       "unitPrice": "3.05",
       "sum": "91.50",
-      "id": 20
+      "id": "20"
     },
     {
       "product": "Piwo",
@@ -178,7 +169,7 @@
       "unitNumber": "22",
       "unitPrice": "3.20",
       "sum": "70.40",
-      "id": 21
+      "id": "21"
     },
     {
       "product": "Piwo",
@@ -187,7 +178,7 @@
       "unitNumber": "21",
       "unitPrice": "3.22",
       "sum": "67.62",
-      "id": 22
+      "id": "22"
     },
     {
       "product": "Piwo",
@@ -196,7 +187,7 @@
       "unitNumber": "28",
       "unitPrice": "2.41",
       "sum": "67.48",
-      "id": 23
+      "id": "23"
     },
     {
       "product": "Piwo",
@@ -205,7 +196,7 @@
       "unitNumber": "29",
       "unitPrice": "3.93",
       "sum": "113.97",
-      "id": 24
+      "id": "24"
     },
     {
       "product": "Piwo",
@@ -214,7 +205,7 @@
       "unitNumber": "12",
       "unitPrice": "3.73",
       "sum": "44.76",
-      "id": 25
+      "id": "25"
     },
     {
       "product": "Piwo",
@@ -223,7 +214,7 @@
       "unitNumber": "7",
       "unitPrice": "7.67",
       "sum": "53.69",
-      "id": 26
+      "id": "26"
     },
     {
       "product": "Piwo",
@@ -232,7 +223,7 @@
       "unitNumber": "18",
       "unitPrice": "5.98",
       "sum": "107.64",
-      "id": 27
+      "id": "27"
     },
     {
       "product": "Piwo",
@@ -241,7 +232,7 @@
       "unitNumber": "27",
       "unitPrice": "7.39",
       "sum": "199.53",
-      "id": 28
+      "id": "28"
     },
     {
       "product": "Piwo",
@@ -250,7 +241,7 @@
       "unitNumber": "12",
       "unitPrice": "6.19",
       "sum": "74.28",
-      "id": 29
+      "id": "29"
     },
     {
       "product": "Wino",
@@ -259,7 +250,7 @@
       "unitNumber": "5.8",
       "unitPrice": "12.86",
       "sum": "74.59",
-      "id": 30
+      "id": "30"
     },
     {
       "product": "Wino",
@@ -268,7 +259,7 @@
       "unitNumber": "3.8",
       "unitPrice": "13.13",
       "sum": "49.89",
-      "id": 31
+      "id": "31"
     },
     {
       "product": "Wermut",
@@ -277,7 +268,7 @@
       "unitNumber": "1.85",
       "unitPrice": "29.09",
       "sum": "53.82",
-      "id": 32
+      "id": "32"
     },
     {
       "product": "Wermut",
@@ -286,7 +277,7 @@
       "unitNumber": "2",
       "unitPrice": "29.09",
       "sum": "58.18",
-      "id": 33
+      "id": "33"
     },
     {
       "product": "Spirytus",
@@ -295,7 +286,7 @@
       "unitNumber": "1.6",
       "unitPrice": "40.49",
       "sum": "64.78",
-      "id": 34
+      "id": "34"
     },
     {
       "product": "Wódka",
@@ -304,7 +295,7 @@
       "unitNumber": "20",
       "unitPrice": "23.99",
       "sum": "479.80",
-      "id": 35
+      "id": "35"
     },
     {
       "product": "Wódka",
@@ -313,7 +304,7 @@
       "unitNumber": "6.6",
       "unitPrice": "19.35",
       "sum": "127.71",
-      "id": 36
+      "id": "36"
     },
     {
       "product": "Wódka",
@@ -322,7 +313,7 @@
       "unitNumber": "6.6",
       "unitPrice": "19.35",
       "sum": "127.71",
-      "id": 37
+      "id": "37"
     },
     {
       "product": "Wódka",
@@ -331,7 +322,7 @@
       "unitNumber": "8.7",
       "unitPrice": "19.35",
       "sum": "168.34",
-      "id": 38
+      "id": "38"
     },
     {
       "product": "Wódka",
@@ -340,7 +331,7 @@
       "unitNumber": "5.6",
       "unitPrice": "19.35",
       "sum": "108.36",
-      "id": 39
+      "id": "39"
     },
     {
       "product": "Wódka",
@@ -349,7 +340,7 @@
       "unitNumber": "5.6",
       "unitPrice": "19.35",
       "sum": "108.36",
-      "id": 40
+      "id": "40"
     },
     {
       "product": "Wódka",
@@ -358,7 +349,7 @@
       "unitNumber": "5.7",
       "unitPrice": "19.35",
       "sum": "110.30",
-      "id": 41
+      "id": "41"
     },
     {
       "product": "Tequila",
@@ -367,7 +358,7 @@
       "unitNumber": "2.8",
       "unitPrice": "106.49",
       "sum": "298.17",
-      "id": 42
+      "id": "42"
     },
     {
       "product": "Wódka",
@@ -376,7 +367,7 @@
       "unitNumber": "2.9",
       "unitPrice": "29.97",
       "sum": "86.91",
-      "id": 43
+      "id": "43"
     },
     {
       "product": "Wódka",
@@ -385,7 +376,7 @@
       "unitNumber": "2.7",
       "unitPrice": "29.97",
       "sum": "80.92",
-      "id": 44
+      "id": "44"
     },
     {
       "product": "Wódka",
@@ -394,7 +385,7 @@
       "unitNumber": "4.5",
       "unitPrice": "20.60",
       "sum": "92.70",
-      "id": 45
+      "id": "45"
     },
     {
       "product": "Likier",
@@ -403,7 +394,7 @@
       "unitNumber": "2.8",
       "unitPrice": "70.19",
       "sum": "196.53",
-      "id": 46
+      "id": "46"
     },
     {
       "product": "Likier",
@@ -412,7 +403,7 @@
       "unitNumber": "1.9",
       "unitPrice": "46.79",
       "sum": "88.90",
-      "id": 47
+      "id": "47"
     },
     {
       "product": "Tequila",
@@ -421,7 +412,7 @@
       "unitNumber": "3.8",
       "unitPrice": "65.93",
       "sum": "250.53",
-      "id": 48
+      "id": "48"
     },
     {
       "product": "Gin",
@@ -430,7 +421,7 @@
       "unitNumber": "6.5",
       "unitPrice": "34.19",
       "sum": "222.23",
-      "id": 49
+      "id": "49"
     },
     {
       "product": "Gin",
@@ -439,7 +430,7 @@
       "unitNumber": "2.9",
       "unitPrice": "82.80",
       "sum": "240.12",
-      "id": 50
+      "id": "50"
     },
     {
       "product": "Whisky",
@@ -448,7 +439,7 @@
       "unitNumber": "1.8",
       "unitPrice": "40.49",
       "sum": "72.88",
-      "id": 51
+      "id": "51"
     },
     {
       "product": "Whisky",
@@ -457,7 +448,7 @@
       "unitNumber": "3.8",
       "unitPrice": "56.13",
       "sum": "213.29",
-      "id": 52
+      "id": "52"
     },
     {
       "product": "Whisky",
@@ -466,7 +457,7 @@
       "unitNumber": "4.5",
       "unitPrice": "60.30",
       "sum": "271.35",
-      "id": 53
+      "id": "53"
     },
     {
       "product": "Burbon",
@@ -475,7 +466,7 @@
       "unitNumber": "2",
       "unitPrice": "628",
       "sum": "1256.00",
-      "id": 54
+      "id": "54"
     },
     {
       "product": "Burbon",
@@ -484,7 +475,7 @@
       "unitNumber": "1.8",
       "unitPrice": "88.19",
       "sum": "158.74",
-      "id": 55
+      "id": "55"
     },
     {
       "product": "Whisky",
@@ -493,7 +484,7 @@
       "unitNumber": "1.7",
       "unitPrice": "161.54",
       "sum": "274.62",
-      "id": 56
+      "id": "56"
     },
     {
       "product": "Likier",
@@ -502,7 +493,7 @@
       "unitNumber": "2.35",
       "unitPrice": "61.73",
       "sum": "145.07",
-      "id": 57
+      "id": "57"
     },
     {
       "product": "Likier",
@@ -511,7 +502,7 @@
       "unitNumber": "3.4",
       "unitPrice": "49.94",
       "sum": "169.80",
-      "id": 58
+      "id": "58"
     },
     {
       "product": "Whisky",
@@ -520,7 +511,7 @@
       "unitNumber": "1.8",
       "unitPrice": "68.81",
       "sum": "123.86",
-      "id": 59
+      "id": "59"
     },
     {
       "product": "Whisky",
@@ -529,7 +520,7 @@
       "unitNumber": "1",
       "unitPrice": "948",
       "sum": "948.00",
-      "id": 60
+      "id": "60"
     },
     {
       "product": "Rum",
@@ -538,7 +529,7 @@
       "unitNumber": "2.4",
       "unitPrice": "45.95",
       "sum": "110.28",
-      "id": 61
+      "id": "61"
     },
     {
       "product": "Rum",
@@ -547,7 +538,7 @@
       "unitNumber": "2.9",
       "unitPrice": "47.94",
       "sum": "139.03",
-      "id": 62
+      "id": "62"
     },
     {
       "product": "Rum",
@@ -556,7 +547,7 @@
       "unitNumber": "2.4",
       "unitPrice": "68.87",
       "sum": "165.29",
-      "id": 63
+      "id": "63"
     },
     {
       "product": "Likier",
@@ -565,7 +556,7 @@
       "unitNumber": "3.5",
       "unitPrice": "31.96",
       "sum": "111.86",
-      "id": 64
+      "id": "64"
     },
     {
       "product": "Wódka",
@@ -574,7 +565,7 @@
       "unitNumber": "0.8",
       "unitPrice": "99.80",
       "sum": "79.84",
-      "id": 65
+      "id": "65"
     },
     {
       "product": "Whisky",
@@ -583,7 +574,7 @@
       "unitNumber": "2.7",
       "unitPrice": "90.43",
       "sum": "244.16",
-      "id": 66
+      "id": "66"
     },
     {
       "product": "Whisky",
@@ -592,7 +583,25 @@
       "unitNumber": "1.8",
       "unitPrice": "277.71",
       "sum": "499.88",
-      "id": 67
+      "id": "67"
+    },
+    {
+      "id": "d1d0",
+      "product": "Spirytus",
+      "name": "Spirytus 95%",
+      "unit": "butelka 0.5 L",
+      "unitNumber": "2",
+      "unitPrice": "54",
+      "sum": "108.00"
+    },
+    {
+      "id": "8860",
+      "product": "Spirytus",
+      "name": "Spirytus 95%",
+      "unit": "butelka 0.5 L",
+      "unitNumber": "2",
+      "unitPrice": "54",
+      "sum": "108.00"
     }
   ]
 }

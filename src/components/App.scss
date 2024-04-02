@@ -1,3 +1,5 @@
+
+
 @mixin info {
   margin: 5px;
   font-size: 12px;
@@ -9,7 +11,8 @@
 }
 
 body {
-  width: 80%;
+  background-color: #242424;
+  width: 1040px;
   margin: 0 auto;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
@@ -18,15 +21,17 @@ body {
 header {
   h1 {
     margin: 5px 0;
+    color: white;
   }
 }
 
 h2 {
   margin: 5px 0;
+  color: white;
 }
 
 div {
-  background-color: rgb(229, 229, 229);
+  background-color: dimgrey;
   padding: 5px 0;
   margin-top: 5px;
   form {
@@ -42,7 +47,7 @@ div {
       select {
         @include info;
         width: 200px;
-        background-color: rgb(35, 91, 147);
+        background-color: rgb(55, 59, 61);
         color: white;
         &:hover {
           opacity: 0.8;
@@ -55,7 +60,7 @@ div {
   }
 }
 button {
-  background-color: rgb(17, 74, 110);
+  background-color: cornflowerblue;
   border: none;
   color: white;
   margin: 1px 5px;
@@ -72,6 +77,7 @@ div {
     text-align: left;
     width: 120px;
     font-size: 14px;
+    color: white;
   }
 }
 
